@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mary dutchess of Norfolk</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02594</idno>
+            <idno type="STC">Wing C949</idno>
+            <idno type="STC">ESTC R225486</idno>
+            <idno type="EEBO-CITATION">52211916</idno>
+            <idno type="OCLC">ocm 52211916</idno>
+            <idno type="VID">175485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175485)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mary dutchess of Norfolk</title>
+                  <author>Norfolk, Mary Howard, Duchess of, 1659?-1705</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Matrimonial actions --  England --  Cases --  Early works to 1800.</term>
+               <term>Trials (Adultery) --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175485:1" rendition="simple:additions"/>
+            <head>The CASE of <hi>Mary</hi> Dutcheſs of <hi>Norfolk.</hi>
+            </head>
+            <p>UPon the Marriage of the <hi>Dutcheſs</hi> with the now <hi>Duke</hi> of <hi>Norfolk,</hi> in the year 1677, her Father the late <hi>Earl</hi> of <hi>Peterborough,</hi> paid as part of her Portion 10000 <hi>l,</hi> and Setled on that Marriage Lands of near 1000 <hi>l. per annum,</hi> the Remainder of which on Failure of Iſſue was limited to the now Duke and his Heirs for ever; and the Earl after his and his Lady's death ſecured to the Duke the Furniture of <hi>Drayton</hi> worth 10000 <hi>l.</hi> more, and the Duke receiv'd alſo by Agreement 1000 <hi>l. per annum</hi> for Twenty years out of the Earls Eſtate; beſides very rich Jewels, Plate, and other things of great value, which the Dutcheſs brought with her into the Duke's Family: And great Debts having been contracted, for the ſupport of the Duke's Honour and his Service while he cohabited with the Dutcheſs, ſhe hath ſince his Separation from her paid them out of her own Eſtate.</p>
+            <p>That by the evil and malicious inſinuations of the Dutcheſs's enemies, the Duke was prevailed on, to carry her then a Proteſtant into <hi>France,</hi> and to put her into a Monaſtery (where ſhe could not be admitted without changing her Religion) and left her there on great aſſurances of ſending for her home in a ſhort time, and ſo parted with great expreſſions of Kindneſs.</p>
+            <p>That a conſiderable time after by the Dukes conſent, ſhe returned into <hi>England,</hi> and lived retiredly at <hi>Drayton</hi> in <hi>Northamptonſhire,</hi> and at the time of the Re<g ref="char:EOLhyphen"/>volution ſhe again retired to <hi>France,</hi> where ſhe continued till ſhe heard of her Father's Impriſonment in the <hi>Tower,</hi> and then came back to <hi>England</hi> and lived privately till her Father obtained his Liberty, when ſhe came home to him.</p>
+            <p>That the 8th of <hi>January</hi> 1691 the Duke was prevailed on by the inſtigation of her Enemies, to exhibit a Bill in the Houſe of Peers, to the ſame effect with the Bill now depending, and diverſe Witneſſes were examined on both ſides, after which and a long ſolemn debate and due conſideration had by their Lordſhips of the Witneſſes, and what was Sworn by them, the 17th of <hi>February,</hi> they were pleaſed to reject the Bill without a ſecond reading.</p>
+            <p>Notwithſtanding which the Duke was again prevailed on the 22th <hi>December</hi> 1692 to exhibit a Second Bill in the Houſe of Peers, to the ſame effect with his Firſt, which after ſeveral debates was the 2d of <hi>January</hi> following again rejected.</p>
+            <p>Sometime after this, and for accomodating all differences between them, Pro<g ref="char:EOLhyphen"/>poſals were made to the Dutcheſs, which after long agitation on 28th <hi>April</hi> 1694 were reduced into Writing, and executed by the Duke and Dutcheſs: The preamble of which Articles is in the words following. <hi>Whereas diverſe Controverſies, Debates, Demands, and Suites of ſeveral natures have for ſome time ſince been agitated, and continued between the ſaid Duke and the ſaid Dutcheſs his Wife,</hi> &amp;c. <hi>unto all which it is at laſt held fitting (it being conduceable to their reſpective quiets and eaſe) to have an end put, and the like for the future prevented. It is therefore hereby and by the Parties to theſe preſents, declared and agreed in manner following;</hi> Whereby the Dutcheſs convey'd to the Duke's uſe the Mannor of <hi>Caſtle Ryſing</hi> &amp;c. And alſo the ſaid Dutcheſs and her Truſtees, Aſſigned their Intereſt in a Conſiderable Part of the Mannor of <hi>Sheffield</hi> in <hi>Yorkſhire</hi> to the uſe of the ſaid Duke. So that by theſe Articles and that Deed Executed there<g ref="char:EOLhyphen"/>upon, the Duke had his then deſired Advantages.</p>
+            <p>That after the execution of theſe Articles, the Dutcheſs ſent for one Mr. <hi>Negus</hi> the Dukes principal Gentleman, and expreſſed her ſelf very ſenſibly of the mis<g ref="char:EOLhyphen"/>fortunes of the <hi>Duke</hi> and her <hi>ſelf,</hi> and deſired Mr. <hi>Negus</hi> to tell the Duke, that ſhe would avoid all Company that ſhould give him any offence, and that ſhe would not ſo much as pay a Viſit, but where he liked; which Mr. <hi>Negus</hi> lately te<g ref="char:EOLhyphen"/>ſtified before the Lords, and that he acquainted the Duke with it, as alſo that ſhe had ſeveral times told him, if ſhe Dyed firſt, ſhe would leave the Duke her Eſtate.</p>
+            <pb n="2" facs="tcp:175485:2" rendition="simple:additions"/>
+            <p>That notwithſtanding the ſaid Agreements, whereby the Duke and Dutch<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> agreed to live Seperately, yet without his ſignifyng any Diſſatisfaction to or with the Dutcheſs, and without any manner of Notice, or previous proceeding in the common and ordinary Courſe of Juſtice, but by taking from her that Legal Tryal in the Eccleſtaſtical Court, which by the Laws of this Realm ſhe is in<g ref="char:EOLhyphen"/>tituled unto, he did on the 16th. day of <hi>February</hi> laſt exhibit in the Houſe of Peers the Bill now depending for Diſſolving the Dukes Marriage with the Dutcheſs, and for enabling him too Marry again. Upon which the proceedings were ſo very quick, two Foreigners (<hi>a</hi> French <hi>Footman and a</hi> Dutch <hi>Cook-maid</hi>) lately brought from beyond Sea being forthwith examined againſt her, charging her with Facts ſuppoſed to be committed many Years ſince, and long before the date of the ſaid Agreements, and on which the two former Bills were ſounded, that it was impoſſible for her to make her Defence as ſhe might have done, if the proceedings had been againſt her according to the known Laws of this Land.</p>
+            <p>The Dutcheſs thought her ſelf under a neceſſity of complying with all the Orders of the Houſe of Peers, and accordingly as well as ſhe could, made her Defence, tho' leſs than a weeks time was allowed her for doing it, and up<g ref="char:EOLhyphen"/>on Examining the Evidence of the Dukes Witneſſes, many contradictions ap<g ref="char:EOLhyphen"/>peared, ſome whereof follow, as doth appear by the depoſitions taken in Wri<g ref="char:EOLhyphen"/>ting, and now remaining in the Houſe of Peers.</p>
+            <p>For <hi>Hoſieur</hi> the Footman Swears the Dutcheſs was at the <hi>Cock-Pit,</hi> when and before, he came to Live with Sr. <hi>John Jermaine</hi> and that he continued there Fifteen days after, and that after the Dutcheſs left the <hi>Cock-Pit</hi> ſhe went to <hi>Fox-hall.</hi>
+            </p>
+            <p>
+               <hi>Vannas</hi> the Cook-maid Swears <hi>Hoſieur</hi> came to Sir. <hi>John</hi> when the Dutcheſs was at <hi>Fox-Hall.</hi>
+            </p>
+            <p>
+               <hi>Hoſſieur</hi> Swears that 8th. <hi>Feb.</hi> 92 he left Sir <hi>John</hi>'s ſervice, when the Tryal was between the Duke and Dutcheſs in Parliament, and after Lived privately ſix or eight weeks till he and <hi>Vannas</hi> could get for <hi>Holland,</hi> and arrived there in Eaſter following.</p>
+            <p>And yet in an other place he Swore he deſired leave to go, and afterwards that he alſo went for <hi>Holland</hi> as ſoon as the Wind was fair.</p>
+            <p>But Note all the Evidence was cloſed and ordered to be ſummed up, the 9th. of <hi>February,</hi> ſo that he needed not afterwards to have gone. And whereas he inſi<g ref="char:EOLhyphen"/>nuates that he and <hi>Vannas</hi> were Secreted and kept from being Witneſſes.</p>
+            <p>Note it doth no where appear, that either he or <hi>Vannas</hi> were ever thought on for Witneſſes.</p>
+            <p>
+               <hi>Hoſſieur</hi> Swears he returned again to Sir <hi>John</hi> in Summer 92 being often ſent to by Sir <hi>John.</hi>
+            </p>
+            <p>Whereas <hi>Bayly</hi> an other of the Dukes Witneſſes ſwears, he did not return again to Sir <hi>John</hi> in two years after he went away; <hi>Bayly</hi> the Witneſs be<g ref="char:EOLhyphen"/>ing all that time and three years before a Servant in the Houſe.</p>
+            <p>Note alſo that this very Summer 92, to wit in <hi>Eaſter</hi>-Term, the Duke brought his Action againſt Sir <hi>John,</hi> which was tryed <hi>Michaelmaſs</hi>-Term 92, at which time it had been more likely, if Sir <hi>John</hi> had believed he could have done him any harm, he ſhould have kept him in <hi>Holland,</hi> rather then have ſent for him over, eſpecially conſidering that this fellow afterwards Swears, Sir <hi>John</hi> Swore in a rage this fellow would betray him.</p>
+            <p>
+               <hi>Hoſieur</hi> being asked who ſent for <hi>Vannas</hi> over.</p>
+            <p>He anſwered that after he had promiſed the Duke and Lord <hi>Howard</hi> to ſpeak the truth of what he knew, they deſired him if he met <hi>Vannas</hi> to deſire her to come over, and ſpeak the truth of what ſhe knew.</p>
+            <p>And being asked how long after he met <hi>Vannas.</hi> Anſwered about 12 months ſince.</p>
+            <p>And being asked when was the firſt time he ſpoke to her, about her coming over to ſpeak the truth. Anſwered, 'tis about a year ſince.</p>
+            <p>And being asked how long it was ſince they reſolved to come over. An<g ref="char:EOLhyphen"/>ſwered, 12 months.</p>
+            <p>
+               <hi>Vannas</hi> being asked whether ſhe was not ſent for from <hi>Holland</hi> to be a Witneſs,</p>
+            <p>Anſwered, ſhe knew nothing of it, till eight or nine weeks ago.</p>
+            <pb n="3" facs="tcp:175485:2" rendition="simple:additions"/>
+            <p>
+               <hi>Vannas</hi> Swears ſhe was ſent away on account of the Tryal.</p>
+            <p>Whereas <hi>Peacock, Hawkeſworth</hi> and <hi>Knight,</hi> three Servants of the <hi>D<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Swore the <hi>Dutcheſs</hi> turn'd her away before the Tryal, for keeping company with <hi>Dutch</hi> Souldiers, and they do Swear a new Cook-maid there before the Tryal.</p>
+            <p>
+               <hi>Hoſſieur</hi> Swears he had a Key of the door going into the <hi>P<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> and could come in when he would,</p>
+            <p>And yet owns, he knew but two of the Servants, one whereof is long ſince dead;</p>
+            <p>And alſo the Dutcheſſes Servants, Swear they never heard any body had a Key, and that if any Key had been, they muſt have known of it; they alſo prove the Shutting up, Bolting and Chaining the door every night, and Opening it every morning, and but one of the Servants remembers ever to have ſeen him at the Door, and then he rung the Bell, but came only to ſee a Country woman of his, and to carry Letters to <hi>Holland,</hi> and brought anſwer back to her, but was not admitted beyond the paſſage.</p>
+            <p>
+               <hi>Hoſſieur</hi> and <hi>Vannas</hi> Swear they ſaw the Dutcheſs and Sir <hi>John</hi> in Bed to<g ref="char:EOLhyphen"/>gether at <hi>Mill-bank;</hi>
+            </p>
+            <p>The Dutcheſſes woman Swore ſhe has put the Dutcheſs to Bed, and taken her up every night and morning ſeveral years, and never ſaw him in the Houſe. And two others Swear they were conſtantly in waiting night and morning, and poſitively deny any knowledge of any ſuch thing, and ſay they never ſaw <hi>Huſſieur</hi> there, and that <hi>Vannas</hi> was never admitted up ſtairs, ſhe was ſo dirty a creature; much leſs to Dreſs or Undreſs the Dutcheſs as ſhe Pretended often to have done.</p>
+            <p>
+               <hi>Vannas</hi> Swears ſhe could not tell the places ſhe has been at theſe ſix weeks laſt paſt. Whereas</p>
+            <p>Mr. <hi>May,</hi> and two other of the Dukes ſervants, Swear ſhe has been four<g ref="char:EOLhyphen"/>teen days in the Dukes own houſe, with the full Liberty of the houſe.</p>
+            <p>
+               <hi>Vannas</hi> being asked whether ſhe ever told any body of the occaſion of her going away, ſhe Swore yes, ſhe told it to a great many in <hi>Holland,</hi> and not here.</p>
+            <p>Yet being afterwards asked whether ſhe ever diſcovered that ſhe was ſent out of the way, ſhe Swore directly no.</p>
+            <p>Theſe are ſome of the many and plain Contradictions and Diſproofs of theſe Evidences; beſides the great improbability in their own nature, in ſe<g ref="char:EOLhyphen"/>veral things Sworn.</p>
+            <p>But it is alſo to be noted, that <hi>Huſieur</hi> left Sir <hi>John</hi>'s ſervice in a diſguſt, and ſo it is proved by <hi>Bayly</hi> another of the Dukes Witneſſes, and that what <hi>Huſieur</hi> Swore, could be nothing but Spight and Malice. Yea it is proved on the Dutcheſſes part, that he Swore he would find a way to be revenged of him, and that perhaps it might not be long firſt; and Mr. <hi>Strange,</hi> Mrs. <hi>Pitts</hi> and and her two Maids, who could have depoſed very materially for the Dutcheſs refuſed to appear, tho' often Summoned; being perſons not in the Dutcheſſes Intereſt or Power.</p>
+            <p>This <hi>Hoſieur</hi> has been out of place ever ſince he left Sir <hi>John</hi>'s ſervice <hi>April</hi> 96. and is ſo ſtill as he Swears. And ſo in conſequence likely to be ne<g ref="char:EOLhyphen"/>ceſſitous.</p>
+            <p>Note alſo that <hi>Hoſieur</hi> Swears Sir <hi>John</hi> gave him ſeven Guineas to pay the char<g ref="char:EOLhyphen"/>ges of himſelf, <hi>Vannas</hi> and an other, which were ordered to be kept private, till they could be Shipp'd off, and alſo for their paſſage into <hi>Holland,</hi> which was in time from the 8 <hi>Feb.</hi> 92. till <hi>Eaſter.</hi>
+            </p>
+            <p>Which does not look like a bribe for a ſecret of this nature, being hard<g ref="char:EOLhyphen"/>ly ſufficient to maintain three People, and pay their Lodgings for two Months.</p>
+            <p>
+               <hi>Huſſieur</hi> would be thought a mighty Confident, ſo as to have a Key to the Dutcheſſes houſe, to come in, and go out, when he pleaſed; and yet as well ac<g ref="char:EOLhyphen"/>quainted as he pretended to be with the houſe, and the Dutcheſſes Bed-chamber, he could not tell on what Floor it was, nor what Furniture it had; nor whether Wainſcotted or Hanged. And when he was asked, which way the Windows of the Bed-chamber looked, he triffled in that Queſtion, and concluded he could ſee the Water, but was affraid to go near the Window for fear of being diſcovered, and yet had no ſcruple of coming into the houſe with his Key at any time.</p>
+            <pb n="4" facs="tcp:175485:3" rendition="simple:additions"/>
+            <p>Theſe things being obſerved it muſt be conſidered, that the Facts now in effect charg'd againſt the Dutcheſs, are ſuggeſted to be done many years ſince, and were debated and conſidered before the Peers, before the rejecton of the two firſt Bills, and long before the Agreement for putting an end to all Controverſies and Debates. Now 'tis very hard to put the <hi>Dutcheſs</hi> to account again, for thoſe very Facts, con<g ref="char:EOLhyphen"/>ſidering that after eight or nine years, many People are dead, others diſperſed, and not in a little time to be found out, and circumſtances of times and places (which in the nature of all theſe Caſes is almoſt all that is left to diſcover a Falſity) forgot.</p>
+            <p>The Dutcheſs is alſo under the unavoidable neceſſity of proving a Negative a<g ref="char:EOLhyphen"/>gainſt down right Swearing, and that without any matter Introductory, and alſo by two mean Servants, the one turned out of her Place for keeping company with Foot Souldiers, and the other leaving his Place in diſguſt, becauſe he could not have the Play Money.</p>
+            <p>Maſters are already too much in the power of their Servants, and if they charge their Maſters with Adultery, Felony and even Treaſon, it is not eaſily in the power of the Maſter to defend himſelf againſt down right Swearing; Servants having thoſe opportunities of the knowledge of times and places and Company, which cannot be denied or avoided, and which others have not, whereupon they may frame and build falſe Evidence, and many times are of ill Principles and deſ<g ref="char:EOLhyphen"/>perate Fortunes, and of tempers very Revengeful, ſo that whoever turns away a Servant, he is in his power for his Eſtate, Honour and even Life it ſelf. And there<g ref="char:EOLhyphen"/>fore for the ſafety and freedom of Families in other Countrys, they are not permit<g ref="char:EOLhyphen"/>ted to be Evidence againſt their Maſters, in any matter criminal whatſoever.</p>
+            <p>Note alſo the Dutcheſs thinks, She as an Engliſh Subject has by <hi>Magna Car<g ref="char:EOLhyphen"/>ta</hi> the ſame right to a Tryal in the Legal and ordinary way of Juſtice, as the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt of the Kings Subjects, eſpecially conſidering that there never yet was in <hi>England</hi> one Precedent, of a Bill exhibited in Parliament to diſſolve a Marriage at the firſt inſtance, without any previous proceedings in the Eccleſiaſtical Courts; (which in theſe Caſes is the Law of the Land) and not above Five or Six Bills, in above 600 years ever paſſed to diſſolve Marriages, or make Second Marriages good, even after there had been a divorce in the Spiritual Courts, and thoſe Bills too in Caſes generally where the Husbands were without any recrimination.</p>
+            <p>No Impediment appears why the Duke ſhould not have endeavoured a Divorce at Law, before he had attempted a Bill to diſſolve the Marriage. For any Application to the <hi>Legislature,</hi> for Tryal of matters of Private right, is improper, becauſe there are proper Judicatures, that give that remedy the Law allows.</p>
+            <p>To ask any thing of the <hi>Legislature,</hi> in private Cauſes between Party and Party, beyond what the known Laws in force give, ſeems to be improper, <note place="margin">
+                  <g ref="char:circdot">⊙</g>
+               </note>becauſe,</p>
+            <list>
+               <item>1. It is to make a Law in one perſons Caſe, which is not the Law in ano<g ref="char:EOLhyphen"/>thers.</item>
+               <item>2. It is to retroſpect actions, and after the Fact to Augment or alter the Pe<g ref="char:EOLhyphen"/>nalty. Our Laws are certain, and known, that perſons may conform their actions to them.</item>
+               <item>3. The Courts and Forms of Law are equally the Subjects right with the Law, and the application to the <hi>Legislature,</hi> takes away all that right of Form and Charging, whereas a certainty in time to Anſwer, and exceptions to Witneſſes, and other Legal defences of the Fact, cannot be denyed the meaneſt Subject.</item>
+            </list>
+            <p>The conſequence that ſhort and ſummary ways of proceedings, may have on the Settlements of Eſtates and Families, may be very dangerous, and though the Duke of <hi>Norfolk</hi>'s Bill paſſed the Houſe of Peers, yet a great number of the Peers both Spiritual and Temporal entred their Proteſt againſt its Paſſing, and their reaſons for it.</p>
+            <p>It ought to be no prejudice to the Dutcheſs, that the next Heir preſumptive to the Duke, doth not as yet appear to be a Proteſtant, becauſe when a Bill which hath lately paſſed both Houſes is become a Law, it is not likely that Noble Family will be without a Proteſtant at the head of it.</p>
+            <p>If any of the Witneſſes formerly examined on the Bill in 1691, be now again produced, it is humbly apprehended, that as the validity of their teſtimony they then gave was totally overthrown, by a great number of Witneſſes, ſo it will be again tho' under the diſadvantage of the great diſtance of time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
